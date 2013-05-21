@@ -1,2 +1,4 @@
 test di master baris 1
 
+test di master baris 2
+
